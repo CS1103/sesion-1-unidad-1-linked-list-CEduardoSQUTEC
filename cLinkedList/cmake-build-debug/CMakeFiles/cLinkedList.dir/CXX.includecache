@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ceduardosq/OneDrive/Studies/University/2020/2020 - 01/ObjectOrientedProgramming2/exercise/week01/cLinkedList/cLinkedList.h
+cstddef
+-
+
+/home/ceduardosq/OneDrive/Studies/University/2020/2020 - 01/ObjectOrientedProgramming2/exercise/week01/cLinkedList/main.cpp
+cLinkedList.h
+/home/ceduardosq/OneDrive/Studies/University/2020/2020 - 01/ObjectOrientedProgramming2/exercise/week01/cLinkedList/cLinkedList.h
+cassert
+-
+string
+-
+iostream
+-
+
